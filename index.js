@@ -45,7 +45,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = '#'
+prefix = '<'
 limitawal = 30
 memberlimit = 0
 ator = 'SUBSCRIBE'
